@@ -61,3 +61,72 @@ Existing reading solutions often:
 
 ---
 
+
+All modules run using **multithreading** to ensure smooth real-time performance.
+
+---
+
+## 🗣️ Supported Voice Commands
+
+| Command | Action |
+|-------|--------|
+| `capture` | Capture image |
+| `read` / `speak` | Read extracted text |
+| `stop` | Stop reading |
+| `exit` | Terminate program |
+
+---
+
+## ⚙️ How It Works
+
+1. User places a printed document under the camera  
+2. Device operates in **Automatic** or **Manual (Voice)** mode  
+3. Image is captured and preprocessed  
+4. Text is extracted using OCR  
+5. Extracted text is spoken aloud  
+6. System waits for next command or continues automatically  
+
+---
+
+## 📊 Performance Highlights
+
+- OCR Accuracy: **~89% – 94%** (normal lighting)
+- Average End-to-End Latency: **~2 seconds**
+- Voice command recognition works reliably in moderate noise
+- Stable long-duration operation with low CPU usage
+
+---
+
+## 📈 Applications
+
+- Assistive reading for visually impaired users  
+- Elderly-friendly reading aid  
+- Rural schools and libraries  
+- Hospitals and public service centers  
+- Offline learning environments  
+
+---
+
+## 🔮 Future Enhancements
+
+- 🌍 Multilingual OCR & TTS (Hindi, Kannada, Tamil, etc.)
+- ✍️ Handwritten text recognition (CRNN / ViT models)
+- 🔋 Battery-powered portable version
+- 📱 Mobile companion application
+- 🕶️ Integration with smart glasses
+- 🎚️ Custom voice speed and tone settings
+- 📳 Haptic feedback for accessibility
+
+---
+
+## 📚 Project Domain
+
+- Assistive Technology  
+- Embedded Systems  
+- Internet of Things (IoT)  
+- Computer Vision  
+- Edge AI  
+
+---
+
+
