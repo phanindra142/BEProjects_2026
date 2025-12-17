@@ -1,12 +1,12 @@
-# Heading 1 **Project Title**
+# **Project Title**
 
 Anomaly Detection for Data Leakage Prevention
 
-## Heading 2 *Team Number** 
+## *Team Number** 
 
 Team_20
 
-## Heading 2 **Branch**
+## **Branch**
 
 Computer Science and Engineering (CSE)
 
